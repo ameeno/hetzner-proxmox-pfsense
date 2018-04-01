@@ -1,3 +1,0 @@
-I am working on modifying this guide to not use IPMI and the latest PFsense.
-
-So far i belive the IPv6 for management and ipv4 for pfsense may be the best solution to those without kvm/ipmi but do have IPv6 available such as KimSufi/OVH.
